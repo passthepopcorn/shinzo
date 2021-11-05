@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "libdrie",
+  "private_key_id": "95ad689ec6e1c19aabfb68ce61f42c70c5d6104a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDE9hniukaoZFEa\nHKLWXhtpXqCW77wsXqOx+/kzyPfgHarq1PmYRQZrCeEq7YwpNqlm8HE/JVBEXsVo\n4kvVZuz/3hrkCyOeZsFjw0i0ozeitaSN1U8t/pxheW50Dg1dFPGKU5b6EDXh38tE\nLHUM9NPkfrVGnyZ03/Pl38kksbVvvPJ/xcT1adX6WZ/KpdvOgtGB7dJtsQQgKnxC\njgxCuwSR9P2rD53QRwZGoWX9C2yGPUGkOq/SenE/K9oKSTWD24bEFKdew+GsasEg\ns82MLy0ED+sQzhZ9+Ae1GEo8mkweLBatFXQ7xTMnNEMGQpRmElSTuNlVh5PMFN+C\nO/zKw5FLAgMBAAECggEASmW3Y2f/Vo4GAHn+nECR1BxVRo4powzgglNuTzxDPRmX\nvPpTiUvRX88siV2PSuYF2QdLj5GVny25HaQVBvfI3+FSgP8gJi4kMH3MUccxNbms\n/ZIsRXBeO4d1zEqei6Fkl155sd07rSUuj4LHd+xmuXGPIazuBsmtRBBi1wR1R04K\nqhLqiIA/g8Q20ZgKE436bOow+NsLfJc460Sv1+lLLFl0u0xK/OC2T8i1sCBrZrp7\nMP0qfFGQElwcloYwkI1buktEAaEwlo8i9Tf0pFc0W4n+qPgcdAZj5fbp2QfzPJmj\nvMOiCRUwR0Xzf0zvNc66c8VZVmBfjdFWx7qnQAtGkQKBgQDxa0WqKiRa0X/yLsoJ\nf6jema3lclGs1UCVfcf8N2lFmEoYkk2e0yVl4y3IyUSuAOscCqkUUcoLq46X5CJW\n8JzX1TAVmWGhu2LPde3c7MFjsmR4hud+/3O90H8VmCnBJALZRMk/0+E1upVhAHpU\n3NO/dB9emSzVk2022qPqukstmQKBgQDQ23DyxMomaX8yGAIL6dty1K1xFO+hVyaH\nCKM+AVvzuEXRWOeoAYePJ5h/LDSS/hac0gS7k5ev8SkDCiEL3NMG68Jt9cTXhw5H\nJRy513MS7m422Usq1hbBADuD1kGHQksSwWpiAPX66rsgowc7ZvlQQVhrwQV6uKvp\ny0mxl9KcgwKBgCJAR+f2hqXj5zUi8kMau4ipYQSWjYPp1XngGIluCx92lbyatSx9\nZGbqLkq4U2gkdTbLRGW/nNy/AEIIed6/0GDGvEW0NyfNAB3S62ZWqLFOU/bNnPZl\no7QgaodTyUi/pS/SFINbui33RM44VSLJGbml7fVr4fKDMhGAP5VDzPqxAoGBAL6h\nrORJbmHFJQ3qD+Qj3eNf77cpbteKnmXeInGz9+Pqq/868KbOTpcBgxWAmbQZKzaU\nEzHKs0cqDU7y7drQAeVtRxfqnXJDmWqimyedWTFMY1i42P0OT9J1jdz1sPXuMmu6\nEonFar9NhONzKmSzxpfULQqdMY0kBfXtUSRB+UBVAoGARoNAkBNOvT/rixL0qeqg\nj2sDgCzI9ZPoHEXs6up9q7ABy1w9YrnZ2VOx8B/WyQPM2PX3tm2qbQatNFOY7m4R\ncYHATuWhkmfRPgRkocILUOw6l3gtnV8LBO48xAr2zJKwL9GFLhYjm6ZsanQwWomr\nl12CtQcGeo8LkaQk4/6Alsg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-13b9r102vhqh2-2tljni2tg4rc@libdrie.iam.gserviceaccount.com",
+  "client_id": "102909981463187763494",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-13b9r102vhqh2-2tljni2tg4rc%40libdrie.iam.gserviceaccount.com"
+}
